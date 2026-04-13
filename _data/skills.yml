@@ -1,12 +1,12 @@
 # Skills
 - skill: Programming
-  description: Java, Python, C++, TypeScript, Go, JavaScript, Node.js
+  description: Java, Python, C++, TypeScript, JavaScript, Node.js
 
 - skill: Development
   description: Distributed Systems, Microservices, REST/OData APIs, Spring Boot, Django, NestJS
 
 - skill: AI and Agentic
-  description: LangChain, crewAI, LLMs, Computer Vision (ViT, ResNet18), LangGraph, MCP
+  description: LangChain, crewAI, LLMs, LangGraph, Deep Agents, MCP
 
 - skill: Data and Cloud
   description: SQL (Oracle, PostgreSQL), MongoDB, Cassandra, Docker, Azure, Render, Vercel

@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Baris Can"
 resume_title:                   "AI Software Engineer (SAP STAR) | MSc Informatics Candidate @ TUM"
 
