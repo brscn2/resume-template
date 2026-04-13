@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming
+  description: Java, Python, C++, TypeScript, Go, JavaScript, Node.js
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Development
+  description: Distributed Systems, Microservices, REST/OData APIs, Spring Boot, Django, NestJS
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: AI and Agentic
+  description: LangChain, crewAI, LLMs, Computer Vision (ViT, ResNet18), LangGraph, MCP
+
+- skill: Data and Cloud
+  description: SQL (Oracle, PostgreSQL), MongoDB, Cassandra, Docker, Azure, Render, Vercel
+
+- skill: Problem Solving
+  description: Algorithm Design, Data Structures, Object-Oriented Design, Optimization
+
+- skill: Soft Skills
+  description: Cross-functional Collaboration, Technical Communication, Agile Methodologies
+
+- skill: Languages
+  description: English (Advanced, TOEFL iBT: 114/120), German (Beginner)

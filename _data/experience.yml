@@ -1,19 +1,30 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Experience
+- company: SAP
+  position: AI Software Engineer - STAR Program
+  duration: Mar 2026 &mdash; Present
+  summary: Engineering SAP's first generally available agentic supply chain solution by extending mass processing capabilities beyond 20 concurrent orders using LangChain. Architecting production order management features for customer deployment by integrating LLMs with REST and OData APIs for advanced order rescheduling and material alternative selection.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Ivy - Instant Bank Payments
+  position: Entrepreneur in Residence - Tech
+  duration: Jan 2025 &mdash; Mar 2025
+  summary: Optimized global payment processing with a 10% transaction cost reduction by designing NestJS and Node.js microservices for an API serving 5,000+ banks and 400M+ customers. Secured payment pipelines with a 90% fraud incident reduction by integrating the SEON fraud prevention system into high-volume payout and pay-in flows.
 
+- company: TOKEN Financial Technologies
+  position: Software Engineer (Part-Time)
+  duration: Oct 2024 &mdash; Dec 2024
+  summary: Accelerated agile release cycles with a 40% reduction in testing time by developing 150+ automated end-to-end tests with Selenium. Enhanced reliability of a terminal management system supporting 1M+ devices with a 25% higher defect detection rate through comprehensive testing on a Django backend.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: METU ROMER - Center for Robotics and AI
+  position: Summer Research Intern
+  duration: Aug 2024 &mdash; Sep 2024
+  summary: Accelerated 3D reconstruction pipelines with a 20% rendering time reduction by implementing scalable Neural Radiance Field (NeRF) and Gaussian Splatting algorithms in Python. Streamlined 3D model analysis by managing a custom dataset of 450 images across 3 scenes, training NeRF models, and building a PyQt visualization app. Designed a distributed ROS2 algorithm to coordinate a swarm of 4 Crazyflie drones for precise multi-agent data collection.
+
+- company: TOKEN Financial Technologies
+  position: Software Engineer Intern
+  duration: Jul 2024 &mdash; Aug 2024
+  summary: Scaled remote management for 1M+ IoT POS devices with a 50% reduction in development effort by architecting a Django-based digital twin to simulate device communication without physical hardware. Streamlined backend operations with a 50% reduction in deployment times by containerizing services with Docker and managing PostgreSQL, Cassandra, and Vault.
+
+- company: Softtech
+  position: Software Development Intern
+  duration: Jul 2023 &mdash; Aug 2023
+  summary: Streamlined database operations validation for a 10-engineer team by eliminating manual testing overhead through a Java MVC application for SQL stored procedure testing. Architected database-agnostic backend solutions with seamless Sybase ASE and Oracle compatibility using Factory and DAO design patterns.

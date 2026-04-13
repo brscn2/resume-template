@@ -1,16 +1,20 @@
-# Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# Certificates and Projects
+- project: AesthetIQ (AI Fashion Advisory System)
+  role: Project
+  duration: Selected Highlight
+  description: Architected an AI-integrated fashion advisory system with precise color season identification by fine-tuning a ResNet18 model on 4,000+ images and using a Vision Transformer for face shape analysis. Deployed an observable agentic backend across Azure, Render, and Vercel using LangGraph and MCP, with Langfuse integration for observability.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Distributed Systems and Cloud Computing
+  role: Academic and Applied Work
+  duration: Selected Highlight
+  description: Applied MLOps concepts to production-grade machine learning delivery, including feature stores, experiment tracking, CI/CD pipelines, microservices, and containerization.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Data Management and Algorithms
+  role: Certification
+  duration: Selected Highlight
+  description: Achieved MongoDB Associate Developer and HackerRank SQL certifications, demonstrating proficiency in NoSQL and relational database design, query optimization, and scalable data solutions.
+
+- project: AI and Machine Learning
+  role: Specialization
+  duration: Selected Highlight
+  description: Completed deep learning coursework with CNNs, RNNs, LSTMs, and Transformers in TensorFlow for computer vision and NLP, plus machine learning in production with focus on data quality and model performance optimization.
