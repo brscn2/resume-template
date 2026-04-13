@@ -1,6 +1,8 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Baris Can | Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
+resume_tab_title: "Baris Can | AI Software Engineer"
+resume_favicon: "images/favicon.svg"
 
 # Build settings
 markdown: kramdown
